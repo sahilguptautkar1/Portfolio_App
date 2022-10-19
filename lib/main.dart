@@ -62,7 +62,7 @@ import 'package:flutter/material.dart';
                     children: const <Widget>[
                       Icon(Icons.school,size: 40,),
                       SizedBox(width: 20,),
-                      Text("AKGEC", style: TextStyle(color: Colors.blueGrey,fontSize: 20),)
+                      Text("AKGEC", style: TextStyle(color: Colors.blue,fontSize: 20),)
                     ],
                   ),
                   SizedBox(height: 10,),
@@ -70,7 +70,7 @@ import 'package:flutter/material.dart';
                     children: const <Widget>[
                       Icon(Icons.computer,size: 40,),
                       SizedBox(width: 20,),
-                      Text("C, C++, UI/UX Designing", style: TextStyle(color: Colors.blueGrey,fontSize: 20),)
+                      Text("C, C++, UI/UX Designing, Video Editing", style: TextStyle(color: Colors.blueGrey,fontSize: 20),)
                     ],
                   ),
                   SizedBox(height: 10,),
@@ -110,7 +110,7 @@ import 'package:flutter/material.dart';
                padding: const EdgeInsets.fromLTRB(30, 0, 10, 2),
                child: const Text("I am 2nd year CSE(AI & ML) student and I like Designing and Coding. Currently learning App Development in Flutter.",
                  style: TextStyle(
-                   color: Colors.blueGrey,
+                   color: Colors.blue,
                    fontSize: 22,
                    fontStyle: FontStyle.italic,
 
