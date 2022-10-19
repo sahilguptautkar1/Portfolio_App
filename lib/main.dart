@@ -46,7 +46,7 @@ import 'package:flutter/material.dart';
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: const <Widget>[
 
-                    Text("Sahil Gupta", style: TextStyle(fontSize: 30),),
+                    Text("Sahil Gupta", style: TextStyle(fontSize: 35),),
                     Text("App Developer", style: TextStyle(fontSize: 17),)
                   ],
                 ),
@@ -62,7 +62,7 @@ import 'package:flutter/material.dart';
                     children: const <Widget>[
                       Icon(Icons.school,size: 40,),
                       SizedBox(width: 20,),
-                      Text("AKGEC", style: TextStyle(color: Colors.blue,fontSize: 20),)
+                      Text("AKGEC", style: TextStyle(color: Colors.lightBlueAccent,fontSize: 20),)
                     ],
                   ),
                   SizedBox(height: 10,),
@@ -78,7 +78,7 @@ import 'package:flutter/material.dart';
                     children: const <Widget>[
                       Icon(Icons.location_pin,size: 40,),
                       SizedBox(width: 20,),
-                      Text("Ghaziabad", style: TextStyle(color: Colors.blueGrey,fontSize: 20),)
+                      Text("Ghaziabad", style: TextStyle(color: Colors.lightBlueAccent,fontSize: 20),)
                     ],
                   ),
                   SizedBox(height: 10,),
